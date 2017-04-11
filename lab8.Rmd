@@ -18,4 +18,4 @@ includeSourceDocuments()
 <!-- Don't edit the material above this line -->
 
 
-Delete this sentence and start entering your text here.
+Rmd file for lab 8.
